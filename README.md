@@ -48,16 +48,3 @@
     </a>
 </p>
 
-<!-- Instead of relying on dynamic GitHub Stats APIs -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-    <b>Total Contributions:</b> 0 (Started on October 4, 2024)
-</p>
-
-<p align="center">
-    <b>Current Streak:</b> 0 (October 4, 2024)
-</p>
-
-<p align="center">
-    <b>Longest Streak:</b> 0 days (Started on October 4, 2024)
-</p>
