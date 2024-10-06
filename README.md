@@ -26,6 +26,7 @@ In addition to my academic pursuits, I am involved in a blood cancer awareness c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAURABH11072004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAURABH11072004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABH11072004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
