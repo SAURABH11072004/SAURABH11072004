@@ -7,11 +7,13 @@
 </p>
 
 # 💫 About Me:
-I am a second-year Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE), Pune. I am certified in C++, Python, and C, and I am proficient in tools like Jupyter Notebook and R. Currently, I am learning Data Structures and Algorithms (DSA), web development, and AI & ML.
+I am a **third-year Computer Engineering student** with a solid knowledge of **Machine Learning**, **AI/ML systems**, and **Object-Oriented Programming**. Skilled in **Python** and **C++**, I have a passion for **AI/ML**, **Generative AI**, and building scalable, intelligent systems that reduce everyday human effort.
 
-I have completed a self-paced internship at Goldman Sachs, where I focused on software engineering and password security, and I am currently continuing my internship at Tata through the Forage online program, focusing on data visualization. As the leader of my team in the Smart India Hackathon, I have demonstrated strong leadership skills and problem-solving abilities.
+I have completed a **self-paced internship at Goldman Sachs**, where I focused on software engineering and password security, and an **internship with the Dean Academic at PCCOE**, where I contributed to developing a knowledge-sharing platform.
 
-In addition to my academic pursuits, I am involved in a blood cancer awareness campaign at my college. My commitment to both my studies and social causes highlights my drive for personal growth and community service. I constantly seek new challenges to expand my knowledge and skills, demonstrating a strong desire for success in everything I pursue.
+Motivated by the belief that impactful code can advance intelligent solutions and improve lives, I constantly seek new challenges to expand my knowledge and skills.  
+In addition to academics, I actively contribute to social causes, such as participating in a **blood cancer awareness campaign** at my college.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-mali-58980b292) 
