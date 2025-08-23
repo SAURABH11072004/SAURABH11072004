@@ -1,4 +1,8 @@
-![logo](https://github.com/SAURABH11072004/SAURABH11072004/blob/main/github-header-image%20(3).png?raw=true)
+<!-- Poster Banner -->
+<div align="center">
+  <img src="https://github.com/SAURABH11072004/SAURABH11072004/blob/main/Dog%20Man%20GIF%20by%20Pluralsight.gif" alt="Coding Poster" width="100%">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">"Transforming Ideas into Code: A Journey of Innovation"</h3>
