@@ -21,6 +21,30 @@
 
 ---
 
+## 🎓 Academic Excellence  
+
+<div align="center">
+
+![College](https://img.shields.io/badge/PCCOE-Pimpri%20Chinchwad%20College%20of%20Engineering-blue?style=for-the-badge) 
+![CGPA](https://img.shields.io/badge/CGPA-9.32-brightgreen?style=for-the-badge) 
+![Year](https://img.shields.io/badge/Pre--Final%20Year-2027-blue?style=for-the-badge) 
+![Branch](https://img.shields.io/badge/Course-B.Tech%20CSE-orange?style=for-the-badge)  
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+| 🎓 Educational Background | 💼 Professional Experience |
+|---------------------------|-----------------------------|
+| - **Pimpri Chinchwad College of Engineering (PCCOE), Pune**  <br> - **Computer Science & Engineering**  <br> - CGPA: **9.32 / 10**  <br> - **Expected Graduation:** 2027 | - **Goldman Sachs** – *Software Engineering & Security Intern*  <br> 🔐 Worked on scalable and secure systems  <br> 🤝 Collaborated with cross-functional teams  <br><br> - **Dean Academics, PCCOE** – *Research Intern*  <br> 📚 Developed a knowledge-sharing platform  <br> 🧠 Contributed to academic process automation |
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -59,6 +83,15 @@
 
 ---
 
+## 💻 Coding Platforms
+<p align="center">
+  <a href="https://kaggle.com/saurabhmali1115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://leetcode.com/saurabh1115"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/saurabh11157"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/saurabh_1115"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+
 ## ✍️ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -75,17 +108,12 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-mali-58980b292)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAURABH11072004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-mali-58980b292) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAURABH11072004)
 
 </div>
 
 ---
+---
 
-## 💻 Coding Platforms
-<p align="center">
-  <a href="https://kaggle.com/saurabhmali1115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://leetcode.com/saurabh1115"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/saurabh11157"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/saurabh_1115"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+
+
