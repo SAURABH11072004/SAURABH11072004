@@ -61,6 +61,16 @@
 </p>
 
 ---
+## 📊 GitHub Achievements
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=SAURABH11072004&theme=radical&row=1&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -118,7 +128,5 @@
 
 ---
 ---
-
-
 
 
